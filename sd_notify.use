@@ -1,0 +1,7 @@
+Name: sd_notify
+Description: sd_notify command-line wrapper
+Version: Snapshot
+SourcePath: source
+Pkgs: systemd
+Requires: optparse
+Main: sd_notify.ooc
